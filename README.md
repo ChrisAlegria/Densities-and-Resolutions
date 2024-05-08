@@ -1,4 +1,4 @@
-# densities_and_resolutions
+# Densities_and_Resolutions
 
 This project is a Flutter application that focuses on creating a responsive user interface that automatically adjusts based on the density and resolution of the device's screen.
 
